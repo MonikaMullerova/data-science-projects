@@ -1,0 +1,14 @@
+,recall,balanced_accuracy,accuracy,precision,f1
+LogisticRegression,0.914,0.907,0.901,0.413,0.569
+LinearDiscriminantCl,0.913,0.899,0.887,0.379,0.535
+BernoulliNB,0.912,0.9,0.891,0.387,0.543
+ExtraTreeCl,0.776,0.851,0.916,0.448,0.568
+PassiveAggressiveClassifier,0.861,0.872,0.881,0.36,0.507
+RidgeCl,0.913,0.899,0.887,0.379,0.535
+RidgeClCV,0.913,0.899,0.887,0.379,0.535
+GaussianNB,0.5,0.734,0.936,0.554,0.526
+SDG_Cl,0.911,0.891,0.873,0.351,0.506
+NearestCentroid,0.851,0.884,0.912,0.44,0.58
+DecisionTreeCl,0.757,0.843,0.916,0.449,0.564
+QuadraticDiscriminantAnalysis,0.44,0.71,0.942,0.631,0.518
+BaggingCl,0.779,0.853,0.916,0.45,0.571
